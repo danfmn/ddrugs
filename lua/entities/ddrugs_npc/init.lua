@@ -38,7 +38,6 @@ net.Receive("ddrugs_sellDrug", function(len,ply)
 
 	local foundProducts = ents.FindInSphere(drugDealer:GetPos(), 100)
 	for k,v in pairs(foundProducts) do
-		print(v:GetClass(), class)
 		if v:GetClass() == class then
 			local drug = DDRUGS.NPC.DRUGS[class]
 			local price = drug.price
