@@ -1,6 +1,6 @@
 # ddrugs
 
-Drug NPC for DDrugs
+Garry's Mod NPC for Selling In-Game Drugs
 
 Saving NPC:
 
