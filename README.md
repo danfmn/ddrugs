@@ -1,5 +1,6 @@
 # ddrugs
 
+![alt text](https://media.gmodstore.com/_/script_media/b444ea8e62469641b7242e9d3f9bc32f.png "Preview")
 Garry's Mod NPC for Selling In-Game Drugs
 
 Saving NPC:
